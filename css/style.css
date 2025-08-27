@@ -1,0 +1,13 @@
+@font-face {
+    font-family:'Ang';
+    src: url("../assets/fonts/F500 Ang-ular.ttf") format('truetype');
+}
+
+*
+{
+	font-family:Ang, sans-serif;
+}
+
+body {
+  background-image:url("..assets/img/dot-grid.png");
+}
